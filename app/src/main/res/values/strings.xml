@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Executando Videos</string>
+    <string name="titulo_filme">Rick and Morty</string>
+    <string name="temporada">1ª Temporada • Animação, Ficção Científica</string>
+    <string name="descricao">Depois de ficar desaparecido por quase 20 anos, Rick Sanchez volta a
+        morar com a filha Beth, o genro Jerry e os netos Morty e Summer. Cientista genial e
+        alcoólatra, Rick transforma a garagem da casa em um laboratório e arrasta o neto para
+        aventuras por outros planetas e dimensões — quase sempre com consequências desastrosas
+        para a família.</string>
+    <string name="desc_capa">Capa do filme</string>
+    <string name="desc_play">Botão de executar o vídeo</string>
+</resources>
